@@ -1,0 +1,7 @@
+table {
+	border-collapse: collapse;
+}
+p.thick {
+	font-size: 30px;
+  font-weight: bold;
+}
